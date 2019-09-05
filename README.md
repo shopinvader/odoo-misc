@@ -13,13 +13,6 @@ Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
-
-
-
-Unported addons
----------------
-addon | version | summary
---- | --- | ---
-[base_sparse_field_list_support](base_sparse_field_list_support/) | 10.0.0.1.0 (unported) | Base Sparse Field List Support
+[base_sparse_field_list_support](base_sparse_field_list_support/) | 12.0.1.0.0 | add list support to convert_to_cache()
 
 [//]: # (end addons)
