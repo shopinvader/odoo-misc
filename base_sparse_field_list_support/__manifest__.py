@@ -3,7 +3,7 @@
     "summary": "add list support to convert_to_cache()",
     "version": "12.0.1.0.0",
     "category": "Technical Settings",
-    "website": "www.akretion.com",
+    "website": "https://github.com/shopinvader/odoo-misc",
     "author": "Akretion",
     "license": "AGPL-3",
     "application": False,
