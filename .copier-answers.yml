@@ -1,0 +1,9 @@
+# Do NOT update manually; changes here will be overwritten by Copier
+_commit: v1.0.7-2-g31a5c48
+_src_path: ../../../shopinvader-addons-repo-template
+black_version: 19.10b0
+generate_requirements_txt: true
+odoo_version: '13.0'
+prettify_xml: false
+python_line_length: 88
+repo_slug: odoo-misc
