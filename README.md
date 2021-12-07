@@ -11,8 +11,8 @@ Miscellaneous odoo addons
 
 Available addons
 ----------------
-addon | version | summary
---- | --- | ---
-[base_sparse_field_list_support](base_sparse_field_list_support/) | 13.0.1.0.1 | add list support to convert_to_cache()
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[base_sparse_field_list_support](base_sparse_field_list_support/) | 13.0.1.0.1 |  | add list support to convert_to_cache()
 
 [//]: # (end addons)
